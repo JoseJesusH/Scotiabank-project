@@ -1,5 +1,5 @@
-**Scotiabank Financial Services Project**
-**Project Overview**
+# Scotiabank Financial Services Project
+## Project Overview
 This project is a web application for Scotiabank, built using JSP (Java Server Pages), to replicate core financial services functionalities such as transaction handling, loan registration, and insurance records. It provides an interactive user interface for customers to manage their transactions, request loans, and set up insurance plans.
 
 **Prerequisites**
